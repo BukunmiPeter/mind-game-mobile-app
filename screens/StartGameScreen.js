@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     padding: 16,
     backgroundColor: '#72063c',
     borderRadius: 8,
-    elevation: 4,
+    elevation: 4, //android only
     shadowColor: 'black',
     shadowOffset: { width: 0, height: 2 },
     shadowRadius: 6,
