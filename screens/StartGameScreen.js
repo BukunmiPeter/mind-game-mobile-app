@@ -1,4 +1,4 @@
-import { a, View } from 'react-native';
+import { TextInput, View } from 'react-native';
 
 import PrimaryButton from '../components/PrimaryButton';
 
